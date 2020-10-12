@@ -1,0 +1,25 @@
+<Configuration status="info">
+    <Appenders>
+        <Console name="LogToConsole" target="SYSTEM_OUT">
+            <PatternLayout pattern="%d{HH:mm:ss.SSS} [%t] %-5level %logger{36} - %msg%n"/>
+        </Console>
+        <RollingFile name="LogToRollingFile" fileName="logs/app.log" filePattern="logs/app.log.%d(yyyy-MM-dd)">
+			<PatternLayout>
+				<Pattern>%d %p %c{1.} [%t] %m%n</Pattern>
+			</PatternLayout>
+			<Policies>
+				<TimeBasedTriggeringPolicy interval="1"/>
+			</Policies>
+		</RollingFile>
+    </Appenders>
+
+    <Loggers>
+        <!-- avoid duplicated logs with additivity=false -->
+        <Logger name="LogToRollingFile" level="debug" additivity="false">
+            <AppenderRef ref="LogToRollingFile"/>
+        </Logger>
+        <Root level="debug">
+            <AppenderRef ref="LogToConsole"/>
+        </Root>
+    </Loggers>
+</Configuration>
