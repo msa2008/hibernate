@@ -1,0 +1,10 @@
+main 2020-12-12 17:10:07,392 INFO  *********************Log4j2 Instantiated**************************
+main 2020-12-12 17:10:07,405 DEBUG db.driver : com.mysql.jdbc.Driver
+main 2020-12-12 17:10:07,405 DEBUG db.url : jdbc:mysql://localhost:3306/db1
+main 2020-12-12 17:10:07,405 DEBUG db.username : root
+main 2020-12-12 17:10:07,405 DEBUG db.password : root
+main 2020-12-12 17:10:07,405 DEBUG db.filename : applicationLog4j2.xml
+main 2020-12-12 17:10:07,406 INFO  properties file loaded
+main 2020-12-12 17:10:07,406 DEBUG app.folder.path : D:/githubRepo/hibernate/hibernate/inputFolder/
+main 2020-12-12 17:10:07,406 INFO  *******************Main start*******************
+main 2020-12-12 17:10:07,407 INFO  *******************Main end*******************

@@ -13,9 +13,9 @@ public class DBUtils {
 	static {
 		try {
 			Class.forName(FileUtils.getDriver());
-			System.out.println("driver loaded");
+			MyAppLog.log(MyAppLog.DEBUG, "driver loaded", FileUtils.dblog);			
 		} catch (ClassNotFoundException e) {
-			System.out.println("Problem in driver loading");
+			MyAppLog.log(MyAppLog.ERROR, "Problem in driver loading", FileUtils.dblog);
 			e.printStackTrace();
 		}
 	}
@@ -24,10 +24,10 @@ public class DBUtils {
 		try {
 			con = DriverManager.getConnection(FileUtils.getUrl(), FileUtils.getUsername(), FileUtils.getPassword());
 			if (con != null) {
-				System.out.println("got connection");
+				MyAppLog.log(MyAppLog.INFO, "got connection", FileUtils.dblog);
 			}
 		} catch (SQLException e) {
-			System.out.println("Problem while getting connection");
+			MyAppLog.log(MyAppLog.ERROR, "Problem while getting connection", FileUtils.dblog);
 			e.printStackTrace();
 		}
 		return con;
@@ -40,23 +40,24 @@ public class DBUtils {
 		if (obj instanceof Connection) {
 			try {
 				((Connection) obj).close();
+				obj=null;
 			} catch (SQLException e) {
-				System.out.println("Problem while closing Connection");
+				MyAppLog.log(MyAppLog.ERROR, "Problem while closing Connection", FileUtils.dblog);
 				e.printStackTrace();
 			}
 		} else if (obj instanceof ResultSet) {
 			try {
-				((ResultSet) obj).close();
+				((ResultSet) obj).close();obj=null;
 			} catch (SQLException e) {
-				System.out.println("Problem while closing ResultSet");
+				MyAppLog.log(MyAppLog.ERROR, "Problem while closing ResultSet", FileUtils.dblog);
 				e.printStackTrace();
 			}
 
 		} else if (obj instanceof Statement) {
 			try {
-				((Statement) obj).close();
+				((Statement) obj).close();obj=null;
 			} catch (SQLException e) {
-				System.out.println("Problem while closing Statement");
+				MyAppLog.log(MyAppLog.ERROR, "Problem while closing Statement", FileUtils.dblog);
 				e.printStackTrace();
 			}
 		}

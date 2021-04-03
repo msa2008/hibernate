@@ -1,11 +1,22 @@
 <Configuration status="info">
     <Appenders>
-        <Console name="LogToConsole" target="SYSTEM_OUT">
-            <PatternLayout pattern="%d{HH:mm:ss.SSS} [%t] %-5level %logger{36} - %msg%n"/>
-        </Console>
-        <RollingFile name="LogToRollingFile" fileName="logs/app.log" filePattern="logs/app.log.%d(yyyy-MM-dd)">
+		<Console name="LogToConsole" target="SYSTEM_OUT">
 			<PatternLayout>
-				<Pattern>%d %p %c{1.} [%t] %m%n</Pattern>
+				<Pattern>%t %d %-5p %m%n</Pattern>		
+			</PatternLayout>
+        </Console>
+        <RollingFile name="AppLog" fileName="logs/AppLog.log"   filePattern="logs/AppLog.log.%d{yyyy-MM-dd}-%i">
+			<PatternLayout>
+				<Pattern>%t %d %-5p %m%n</Pattern>				
+			</PatternLayout>
+			<Policies>
+				<TimeBasedTriggeringPolicy interval="1"/>
+			</Policies>
+			 <DefaultRolloverStrategy max="15" />
+		</RollingFile>
+		<RollingFile name="DBLog" fileName="logs/DBLog.log" filePattern="logs/DBLog.log.%d{yyyy-MM-dd}">
+			<PatternLayout>
+				<Pattern>%t %d %-5p %m%n</Pattern>
 			</PatternLayout>
 			<Policies>
 				<TimeBasedTriggeringPolicy interval="1"/>
@@ -15,10 +26,13 @@
 
     <Loggers>
         <!-- avoid duplicated logs with additivity=false -->
-        <Logger name="LogToRollingFile" level="debug" additivity="false">
-            <AppenderRef ref="LogToRollingFile"/>
+        <Logger name="AppLog" level="debug" additivity="false">
+            <AppenderRef ref="AppLog"/>
         </Logger>
-        <Root level="debug">
+		<Logger name="DBLog" level="debug" additivity="false">
+            <AppenderRef ref="DBLog"/>
+        </Logger>
+      <Root level="debug">
             <AppenderRef ref="LogToConsole"/>
         </Root>
     </Loggers>

@@ -1,1 +1,9 @@
+com\citi\dao\StudentDao.class
+com\citi\app\TestClient.class
+com\citi\daoimpl\StudentDaoImpl.class
+com\citi\utils\FileUtils.class
+com\citi\utils\DBUtils.class
+com\citi\model\Student.class
 com\citi\app\AppRunner.class
+com\citi\utils\DBCPDataSource.class
+com\citi\utils\MyAppLog.class

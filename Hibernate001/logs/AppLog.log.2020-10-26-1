@@ -1,0 +1,336 @@
+main 2020-10-26 13:07:30,236 INFO  *********************Log4j2 Instantiated**************************
+main 2020-10-26 13:07:30,247 DEBUG db.driver : com.mysql.jdbc.Driver
+main 2020-10-26 13:07:30,247 DEBUG db.url : jdbc:mysql://localhost:3306/db1
+main 2020-10-26 13:07:30,248 DEBUG db.username : root
+main 2020-10-26 13:07:30,248 DEBUG db.password : root
+main 2020-10-26 13:07:30,248 DEBUG db.filename : applicationLog4j2.xml
+main 2020-10-26 13:07:30,248 INFO  properties file loaded
+main 2020-10-26 13:07:30,248 DEBUG app.folder.path : D:/githubRepo/hibernate/hibernate/backupfolder/
+main 2020-10-26 13:07:30,249 INFO  *******************Main start*******************
+main 2020-10-26 13:09:12,792 INFO  *********************Log4j2 Instantiated**************************
+main 2020-10-26 13:09:12,797 DEBUG db.driver : com.mysql.jdbc.Driver
+main 2020-10-26 13:09:12,797 DEBUG db.url : jdbc:mysql://localhost:3306/db1
+main 2020-10-26 13:09:12,798 DEBUG db.username : root
+main 2020-10-26 13:09:12,798 DEBUG db.password : root
+main 2020-10-26 13:09:12,798 DEBUG db.filename : applicationLog4j2.xml
+main 2020-10-26 13:09:12,798 INFO  properties file loaded
+main 2020-10-26 13:09:12,798 DEBUG app.folder.path : D:/githubRepo/hibernate/hibernate/backupfolder/
+main 2020-10-26 13:09:12,799 INFO  *******************Main start*******************
+main 2020-10-26 13:09:12,799 INFO  *******************Main end*******************
+main 2020-10-26 13:09:19,781 INFO  *********************Log4j2 Instantiated**************************
+main 2020-10-26 13:09:19,784 DEBUG db.driver : com.mysql.jdbc.Driver
+main 2020-10-26 13:09:19,785 DEBUG db.url : jdbc:mysql://localhost:3306/db1
+main 2020-10-26 13:09:19,785 DEBUG db.username : root
+main 2020-10-26 13:09:19,785 DEBUG db.password : root
+main 2020-10-26 13:09:19,785 DEBUG db.filename : applicationLog4j2.xml
+main 2020-10-26 13:09:19,785 INFO  properties file loaded
+main 2020-10-26 13:09:19,785 DEBUG app.folder.path : D:/githubRepo/hibernate/hibernate/backupfolder/
+main 2020-10-26 13:09:19,785 INFO  *******************Main start*******************
+main 2020-10-26 13:09:19,786 INFO  *******************Main end*******************
+main 2020-10-26 13:09:25,035 INFO  *********************Log4j2 Instantiated**************************
+main 2020-10-26 13:09:25,038 DEBUG db.driver : com.mysql.jdbc.Driver
+main 2020-10-26 13:09:25,038 DEBUG db.url : jdbc:mysql://localhost:3306/db1
+main 2020-10-26 13:09:25,038 DEBUG db.username : root
+main 2020-10-26 13:09:25,039 DEBUG db.password : root
+main 2020-10-26 13:09:25,039 DEBUG db.filename : applicationLog4j2.xml
+main 2020-10-26 13:09:25,039 INFO  properties file loaded
+main 2020-10-26 13:09:25,039 DEBUG app.folder.path : D:/githubRepo/hibernate/hibernate/backupfolder/
+main 2020-10-26 13:09:25,039 INFO  *******************Main start*******************
+main 2020-10-26 13:09:25,040 INFO  *******************Main end*******************
+main 2020-10-26 13:09:42,370 INFO  *********************Log4j2 Instantiated**************************
+main 2020-10-26 13:09:42,374 DEBUG db.driver : com.mysql.jdbc.Driver
+main 2020-10-26 13:09:42,374 DEBUG db.url : jdbc:mysql://localhost:3306/db1
+main 2020-10-26 13:09:42,374 DEBUG db.username : root
+main 2020-10-26 13:09:42,374 DEBUG db.password : root
+main 2020-10-26 13:09:42,374 DEBUG db.filename : applicationLog4j2.xml
+main 2020-10-26 13:09:42,374 INFO  properties file loaded
+main 2020-10-26 13:09:42,374 DEBUG app.folder.path : D:/githubRepo/hibernate/hibernate/backupfolder/
+main 2020-10-26 13:09:42,374 INFO  *******************Main start*******************
+main 2020-10-26 13:09:42,375 INFO  *******************Main end*******************
+main 2020-10-26 13:10:08,181 INFO  *********************Log4j2 Instantiated**************************
+main 2020-10-26 13:10:08,189 DEBUG db.driver : com.mysql.jdbc.Driver
+main 2020-10-26 13:10:08,189 DEBUG db.url : jdbc:mysql://localhost:3306/db1
+main 2020-10-26 13:10:08,189 DEBUG db.username : root
+main 2020-10-26 13:10:08,189 DEBUG db.password : root
+main 2020-10-26 13:10:08,189 DEBUG db.filename : applicationLog4j2.xml
+main 2020-10-26 13:10:08,190 INFO  properties file loaded
+main 2020-10-26 13:10:08,190 DEBUG app.folder.path : D:/githubRepo/hibernate/hibernate/backupfolder/
+main 2020-10-26 13:10:08,190 INFO  *******************Main start*******************
+main 2020-10-26 13:11:31,915 INFO  *********************Log4j2 Instantiated**************************
+main 2020-10-26 13:11:31,919 DEBUG db.driver : com.mysql.jdbc.Driver
+main 2020-10-26 13:11:31,919 DEBUG db.url : jdbc:mysql://localhost:3306/db1
+main 2020-10-26 13:11:31,919 DEBUG db.username : root
+main 2020-10-26 13:11:31,919 DEBUG db.password : root
+main 2020-10-26 13:11:31,919 DEBUG db.filename : applicationLog4j2.xml
+main 2020-10-26 13:11:31,919 INFO  properties file loaded
+main 2020-10-26 13:11:31,920 DEBUG app.folder.path : D:/githubRepo/hibernate/hibernate/inputFolder/
+main 2020-10-26 13:11:31,920 INFO  *******************Main start*******************
+main 2020-10-26 13:11:31,968 INFO  *******************Main end*******************
+main 2020-10-26 13:33:12,761 INFO  *********************Log4j2 Instantiated**************************
+main 2020-10-26 13:33:12,765 DEBUG db.driver : com.mysql.jdbc.Driver
+main 2020-10-26 13:33:12,765 DEBUG db.url : jdbc:mysql://localhost:3306/db1
+main 2020-10-26 13:33:12,765 DEBUG db.username : root
+main 2020-10-26 13:33:12,765 DEBUG db.password : root
+main 2020-10-26 13:33:12,765 DEBUG db.filename : applicationLog4j2.xml
+main 2020-10-26 13:33:12,765 INFO  properties file loaded
+main 2020-10-26 13:33:12,765 DEBUG app.folder.path : D:/githubRepo/hibernate/hibernate/inputFolder/
+main 2020-10-26 13:33:12,766 INFO  *******************Main start*******************
+main 2020-10-26 13:33:12,775 INFO  *******************Main end*******************
+main 2020-10-26 13:36:05,998 INFO  *********************Log4j2 Instantiated**************************
+main 2020-10-26 13:36:06,002 DEBUG db.driver : com.mysql.jdbc.Driver
+main 2020-10-26 13:36:06,002 DEBUG db.url : jdbc:mysql://localhost:3306/db1
+main 2020-10-26 13:36:06,002 DEBUG db.username : root
+main 2020-10-26 13:36:06,002 DEBUG db.password : root
+main 2020-10-26 13:36:06,002 DEBUG db.filename : applicationLog4j2.xml
+main 2020-10-26 13:36:06,002 INFO  properties file loaded
+main 2020-10-26 13:36:06,002 DEBUG app.folder.path : D:/githubRepo/hibernate/hibernate/inputFolder/
+main 2020-10-26 13:36:06,002 INFO  *******************Main start*******************
+main 2020-10-26 13:36:40,047 INFO  *********************Log4j2 Instantiated**************************
+main 2020-10-26 13:36:40,050 DEBUG db.driver : com.mysql.jdbc.Driver
+main 2020-10-26 13:36:40,050 DEBUG db.url : jdbc:mysql://localhost:3306/db1
+main 2020-10-26 13:36:40,050 DEBUG db.username : root
+main 2020-10-26 13:36:40,050 DEBUG db.password : root
+main 2020-10-26 13:36:40,050 DEBUG db.filename : applicationLog4j2.xml
+main 2020-10-26 13:36:40,051 INFO  properties file loaded
+main 2020-10-26 13:36:40,051 DEBUG app.folder.path : D:/githubRepo/hibernate/hibernate/inputFolder/
+main 2020-10-26 13:36:40,051 INFO  *******************Main start*******************
+main 2020-10-26 13:40:59,011 INFO  *********************Log4j2 Instantiated**************************
+main 2020-10-26 13:40:59,014 DEBUG db.driver : com.mysql.jdbc.Driver
+main 2020-10-26 13:40:59,014 DEBUG db.url : jdbc:mysql://localhost:3306/db1
+main 2020-10-26 13:40:59,014 DEBUG db.username : root
+main 2020-10-26 13:40:59,014 DEBUG db.password : root
+main 2020-10-26 13:40:59,015 DEBUG db.filename : applicationLog4j2.xml
+main 2020-10-26 13:40:59,015 INFO  properties file loaded
+main 2020-10-26 13:40:59,015 DEBUG app.folder.path : D:/githubRepo/hibernate/hibernate/inputFolder/
+main 2020-10-26 13:40:59,015 INFO  *******************Main start*******************
+main 2020-10-26 13:41:36,491 INFO  *********************Log4j2 Instantiated**************************
+main 2020-10-26 13:41:36,497 DEBUG db.driver : com.mysql.jdbc.Driver
+main 2020-10-26 13:41:36,497 DEBUG db.url : jdbc:mysql://localhost:3306/db1
+main 2020-10-26 13:41:36,497 DEBUG db.username : root
+main 2020-10-26 13:41:36,497 DEBUG db.password : root
+main 2020-10-26 13:41:36,497 DEBUG db.filename : applicationLog4j2.xml
+main 2020-10-26 13:41:36,498 INFO  properties file loaded
+main 2020-10-26 13:41:36,498 DEBUG app.folder.path : D:/githubRepo/hibernate/hibernate/inputFolder/
+main 2020-10-26 13:41:36,498 INFO  *******************Main start*******************
+main 2020-10-26 13:41:47,649 INFO  *********************Log4j2 Instantiated**************************
+main 2020-10-26 13:41:47,657 DEBUG db.driver : com.mysql.jdbc.Driver
+main 2020-10-26 13:41:47,658 DEBUG db.url : jdbc:mysql://localhost:3306/db1
+main 2020-10-26 13:41:47,658 DEBUG db.username : root
+main 2020-10-26 13:41:47,658 DEBUG db.password : root
+main 2020-10-26 13:41:47,658 DEBUG db.filename : applicationLog4j2.xml
+main 2020-10-26 13:41:47,658 INFO  properties file loaded
+main 2020-10-26 13:41:47,658 DEBUG app.folder.path : D:/githubRepo/hibernate/hibernate/inputFolder/
+main 2020-10-26 13:41:47,658 INFO  *******************Main start*******************
+main 2020-10-26 13:43:01,485 INFO  *********************Log4j2 Instantiated**************************
+main 2020-10-26 13:43:01,488 DEBUG db.driver : com.mysql.jdbc.Driver
+main 2020-10-26 13:43:01,488 DEBUG db.url : jdbc:mysql://localhost:3306/db1
+main 2020-10-26 13:43:01,488 DEBUG db.username : root
+main 2020-10-26 13:43:01,488 DEBUG db.password : root
+main 2020-10-26 13:43:01,488 DEBUG db.filename : applicationLog4j2.xml
+main 2020-10-26 13:43:01,488 INFO  properties file loaded
+main 2020-10-26 13:43:01,488 DEBUG app.folder.path : D:/githubRepo/hibernate/hibernate/inputFolder/
+main 2020-10-26 13:43:01,488 INFO  *******************Main start*******************
+main 2020-10-26 13:43:01,496 INFO  *******************Main end*******************
+main 2020-10-26 13:43:08,008 INFO  *********************Log4j2 Instantiated**************************
+main 2020-10-26 13:43:08,011 DEBUG db.driver : com.mysql.jdbc.Driver
+main 2020-10-26 13:43:08,011 DEBUG db.url : jdbc:mysql://localhost:3306/db1
+main 2020-10-26 13:43:08,011 DEBUG db.username : root
+main 2020-10-26 13:43:08,011 DEBUG db.password : root
+main 2020-10-26 13:43:08,011 DEBUG db.filename : applicationLog4j2.xml
+main 2020-10-26 13:43:08,011 INFO  properties file loaded
+main 2020-10-26 13:43:08,011 DEBUG app.folder.path : D:/githubRepo/hibernate/hibernate/inputFolder/
+main 2020-10-26 13:43:08,011 INFO  *******************Main start*******************
+main 2020-10-26 13:43:08,020 INFO  *******************Main end*******************
+main 2020-10-26 13:43:39,587 INFO  *********************Log4j2 Instantiated**************************
+main 2020-10-26 13:43:39,590 DEBUG db.driver : com.mysql.jdbc.Driver
+main 2020-10-26 13:43:39,590 DEBUG db.url : jdbc:mysql://localhost:3306/db1
+main 2020-10-26 13:43:39,591 DEBUG db.username : root
+main 2020-10-26 13:43:39,591 DEBUG db.password : root
+main 2020-10-26 13:43:39,591 DEBUG db.filename : applicationLog4j2.xml
+main 2020-10-26 13:43:39,591 INFO  properties file loaded
+main 2020-10-26 13:43:39,591 DEBUG app.folder.path : D:/githubRepo/hibernate/hibernate/inputFolder/
+main 2020-10-26 13:43:39,591 INFO  *******************Main start*******************
+main 2020-10-26 13:45:40,706 INFO  *********************Log4j2 Instantiated**************************
+main 2020-10-26 13:45:40,710 DEBUG db.driver : com.mysql.jdbc.Driver
+main 2020-10-26 13:45:40,710 DEBUG db.url : jdbc:mysql://localhost:3306/db1
+main 2020-10-26 13:45:40,710 DEBUG db.username : root
+main 2020-10-26 13:45:40,710 DEBUG db.password : root
+main 2020-10-26 13:45:40,710 DEBUG db.filename : applicationLog4j2.xml
+main 2020-10-26 13:45:40,710 INFO  properties file loaded
+main 2020-10-26 13:45:40,710 DEBUG app.folder.path : D:/githubRepo/hibernate/hibernate/inputFolder/
+main 2020-10-26 13:45:40,710 INFO  *******************Main start*******************
+main 2020-10-26 13:46:13,549 INFO  *********************Log4j2 Instantiated**************************
+main 2020-10-26 13:46:13,553 DEBUG db.driver : com.mysql.jdbc.Driver
+main 2020-10-26 13:46:13,553 DEBUG db.url : jdbc:mysql://localhost:3306/db1
+main 2020-10-26 13:46:13,553 DEBUG db.username : root
+main 2020-10-26 13:46:13,553 DEBUG db.password : root
+main 2020-10-26 13:46:13,553 DEBUG db.filename : applicationLog4j2.xml
+main 2020-10-26 13:46:13,553 INFO  properties file loaded
+main 2020-10-26 13:46:13,553 DEBUG app.folder.path : D:/githubRepo/hibernate/hibernate/inputFolder/
+main 2020-10-26 13:46:13,553 INFO  *******************Main start*******************
+main 2020-10-26 13:46:13,570 INFO  *******************Main end*******************
+main 2020-10-26 13:46:34,163 INFO  *********************Log4j2 Instantiated**************************
+main 2020-10-26 13:46:34,166 DEBUG db.driver : com.mysql.jdbc.Driver
+main 2020-10-26 13:46:34,166 DEBUG db.url : jdbc:mysql://localhost:3306/db1
+main 2020-10-26 13:46:34,166 DEBUG db.username : root
+main 2020-10-26 13:46:34,167 DEBUG db.password : root
+main 2020-10-26 13:46:34,167 DEBUG db.filename : applicationLog4j2.xml
+main 2020-10-26 13:46:34,167 INFO  properties file loaded
+main 2020-10-26 13:46:34,167 DEBUG app.folder.path : D:/githubRepo/hibernate/hibernate/inputFolder/
+main 2020-10-26 13:46:34,167 INFO  *******************Main start*******************
+main 2020-10-26 13:46:34,231 INFO  *******************Main end*******************
+main 2020-10-26 13:47:26,881 INFO  *********************Log4j2 Instantiated**************************
+main 2020-10-26 13:47:26,884 DEBUG db.driver : com.mysql.jdbc.Driver
+main 2020-10-26 13:47:26,884 DEBUG db.url : jdbc:mysql://localhost:3306/db1
+main 2020-10-26 13:47:26,884 DEBUG db.username : root
+main 2020-10-26 13:47:26,884 DEBUG db.password : root
+main 2020-10-26 13:47:26,884 DEBUG db.filename : applicationLog4j2.xml
+main 2020-10-26 13:47:26,884 INFO  properties file loaded
+main 2020-10-26 13:47:26,884 DEBUG app.folder.path : D:/githubRepo/hibernate/hibernate/inputFolder/
+main 2020-10-26 13:47:26,884 INFO  *******************Main start*******************
+main 2020-10-26 13:47:26,946 INFO  *******************Main end*******************
+main 2020-10-26 13:47:29,694 INFO  *********************Log4j2 Instantiated**************************
+main 2020-10-26 13:47:29,697 DEBUG db.driver : com.mysql.jdbc.Driver
+main 2020-10-26 13:47:29,698 DEBUG db.url : jdbc:mysql://localhost:3306/db1
+main 2020-10-26 13:47:29,698 DEBUG db.username : root
+main 2020-10-26 13:47:29,698 DEBUG db.password : root
+main 2020-10-26 13:47:29,698 DEBUG db.filename : applicationLog4j2.xml
+main 2020-10-26 13:47:29,698 INFO  properties file loaded
+main 2020-10-26 13:47:29,698 DEBUG app.folder.path : D:/githubRepo/hibernate/hibernate/inputFolder/
+main 2020-10-26 13:47:29,698 INFO  *******************Main start*******************
+main 2020-10-26 13:47:29,764 INFO  *******************Main end*******************
+main 2020-10-26 13:48:00,482 INFO  *********************Log4j2 Instantiated**************************
+main 2020-10-26 13:48:00,485 DEBUG db.driver : com.mysql.jdbc.Driver
+main 2020-10-26 13:48:00,485 DEBUG db.url : jdbc:mysql://localhost:3306/db1
+main 2020-10-26 13:48:00,485 DEBUG db.username : root
+main 2020-10-26 13:48:00,485 DEBUG db.password : root
+main 2020-10-26 13:48:00,485 DEBUG db.filename : applicationLog4j2.xml
+main 2020-10-26 13:48:00,485 INFO  properties file loaded
+main 2020-10-26 13:48:00,486 DEBUG app.folder.path : D:/githubRepo/hibernate/hibernate/inputFolder/
+main 2020-10-26 13:48:00,486 INFO  *******************Main start*******************
+main 2020-10-26 13:48:00,549 INFO  *******************Main end*******************
+main 2020-10-26 13:48:37,421 INFO  *********************Log4j2 Instantiated**************************
+main 2020-10-26 13:48:37,425 DEBUG db.driver : com.mysql.jdbc.Driver
+main 2020-10-26 13:48:37,425 DEBUG db.url : jdbc:mysql://localhost:3306/db1
+main 2020-10-26 13:48:37,425 DEBUG db.username : root
+main 2020-10-26 13:48:37,425 DEBUG db.password : root
+main 2020-10-26 13:48:37,425 DEBUG db.filename : applicationLog4j2.xml
+main 2020-10-26 13:48:37,426 INFO  properties file loaded
+main 2020-10-26 13:48:37,426 DEBUG app.folder.path : D:/githubRepo/hibernate/hibernate/inputFolder/
+main 2020-10-26 13:48:37,426 INFO  *******************Main start*******************
+main 2020-10-26 13:48:37,442 INFO  *******************Main end*******************
+main 2020-10-26 13:48:47,902 INFO  *********************Log4j2 Instantiated**************************
+main 2020-10-26 13:48:47,905 DEBUG db.driver : com.mysql.jdbc.Driver
+main 2020-10-26 13:48:47,905 DEBUG db.url : jdbc:mysql://localhost:3306/db1
+main 2020-10-26 13:48:47,905 DEBUG db.username : root
+main 2020-10-26 13:48:47,905 DEBUG db.password : root
+main 2020-10-26 13:48:47,906 DEBUG db.filename : applicationLog4j2.xml
+main 2020-10-26 13:48:47,906 INFO  properties file loaded
+main 2020-10-26 13:48:47,906 DEBUG app.folder.path : D:/githubRepo/hibernate/hibernate/inputFolder/
+main 2020-10-26 13:48:47,906 INFO  *******************Main start*******************
+main 2020-10-26 13:48:47,929 INFO  *******************Main end*******************
+main 2020-10-26 13:52:15,459 INFO  *********************Log4j2 Instantiated**************************
+main 2020-10-26 13:52:15,463 DEBUG db.driver : com.mysql.jdbc.Driver
+main 2020-10-26 13:52:15,463 DEBUG db.url : jdbc:mysql://localhost:3306/db1
+main 2020-10-26 13:52:15,464 DEBUG db.username : root
+main 2020-10-26 13:52:15,464 DEBUG db.password : root
+main 2020-10-26 13:52:15,464 DEBUG db.filename : applicationLog4j2.xml
+main 2020-10-26 13:52:15,464 INFO  properties file loaded
+main 2020-10-26 13:52:15,464 DEBUG app.folder.path : D:/githubRepo/hibernate/hibernate/inputFolder/
+main 2020-10-26 13:52:15,464 INFO  *******************Main start*******************
+main 2020-10-26 13:52:32,730 INFO  *********************Log4j2 Instantiated**************************
+main 2020-10-26 13:52:32,733 DEBUG db.driver : com.mysql.jdbc.Driver
+main 2020-10-26 13:52:32,733 DEBUG db.url : jdbc:mysql://localhost:3306/db1
+main 2020-10-26 13:52:32,733 DEBUG db.username : root
+main 2020-10-26 13:52:32,733 DEBUG db.password : root
+main 2020-10-26 13:52:32,733 DEBUG db.filename : applicationLog4j2.xml
+main 2020-10-26 13:52:32,733 INFO  properties file loaded
+main 2020-10-26 13:52:32,734 DEBUG app.folder.path : D:/githubRepo/hibernate/hibernate/inputFolder/
+main 2020-10-26 13:52:32,734 INFO  *******************Main start*******************
+main 2020-10-26 13:53:02,182 INFO  *********************Log4j2 Instantiated**************************
+main 2020-10-26 13:53:02,191 DEBUG db.driver : com.mysql.jdbc.Driver
+main 2020-10-26 13:53:02,191 DEBUG db.url : jdbc:mysql://localhost:3306/db1
+main 2020-10-26 13:53:02,191 DEBUG db.username : root
+main 2020-10-26 13:53:02,192 DEBUG db.password : root
+main 2020-10-26 13:53:02,192 DEBUG db.filename : applicationLog4j2.xml
+main 2020-10-26 13:53:02,193 INFO  properties file loaded
+main 2020-10-26 13:53:02,193 DEBUG app.folder.path : D:/githubRepo/hibernate/hibernate/inputFolder/
+main 2020-10-26 13:53:02,193 INFO  *******************Main start*******************
+main 2020-10-26 13:53:36,659 INFO  *********************Log4j2 Instantiated**************************
+main 2020-10-26 13:53:36,666 DEBUG db.driver : com.mysql.jdbc.Driver
+main 2020-10-26 13:53:36,666 DEBUG db.url : jdbc:mysql://localhost:3306/db1
+main 2020-10-26 13:53:36,666 DEBUG db.username : root
+main 2020-10-26 13:53:36,666 DEBUG db.password : root
+main 2020-10-26 13:53:36,666 DEBUG db.filename : applicationLog4j2.xml
+main 2020-10-26 13:53:36,666 INFO  properties file loaded
+main 2020-10-26 13:53:36,667 DEBUG app.folder.path : D:/githubRepo/hibernate/hibernate/inputFolder/
+main 2020-10-26 13:53:36,667 INFO  *******************Main start*******************
+main 2020-10-26 13:53:59,045 INFO  *********************Log4j2 Instantiated**************************
+main 2020-10-26 13:53:59,048 DEBUG db.driver : com.mysql.jdbc.Driver
+main 2020-10-26 13:53:59,048 DEBUG db.url : jdbc:mysql://localhost:3306/db1
+main 2020-10-26 13:53:59,048 DEBUG db.username : root
+main 2020-10-26 13:53:59,049 DEBUG db.password : root
+main 2020-10-26 13:53:59,049 DEBUG db.filename : applicationLog4j2.xml
+main 2020-10-26 13:53:59,049 INFO  properties file loaded
+main 2020-10-26 13:53:59,049 DEBUG app.folder.path : D:/githubRepo/hibernate/hibernate/inputFolder/
+main 2020-10-26 13:53:59,049 INFO  *******************Main start*******************
+main 2020-10-26 13:54:25,035 INFO  *********************Log4j2 Instantiated**************************
+main 2020-10-26 13:54:25,041 DEBUG db.driver : com.mysql.jdbc.Driver
+main 2020-10-26 13:54:25,041 DEBUG db.url : jdbc:mysql://localhost:3306/db1
+main 2020-10-26 13:54:25,041 DEBUG db.username : root
+main 2020-10-26 13:54:25,041 DEBUG db.password : root
+main 2020-10-26 13:54:25,042 DEBUG db.filename : applicationLog4j2.xml
+main 2020-10-26 13:54:25,042 INFO  properties file loaded
+main 2020-10-26 13:54:25,042 DEBUG app.folder.path : D:/githubRepo/hibernate/hibernate/inputFolder/
+main 2020-10-26 13:54:25,042 INFO  *******************Main start*******************
+main 2020-10-26 13:54:25,069 INFO  *******************Main end*******************
+main 2020-10-26 13:54:31,786 INFO  *********************Log4j2 Instantiated**************************
+main 2020-10-26 13:54:31,792 DEBUG db.driver : com.mysql.jdbc.Driver
+main 2020-10-26 13:54:31,792 DEBUG db.url : jdbc:mysql://localhost:3306/db1
+main 2020-10-26 13:54:31,792 DEBUG db.username : root
+main 2020-10-26 13:54:31,793 DEBUG db.password : root
+main 2020-10-26 13:54:31,793 DEBUG db.filename : applicationLog4j2.xml
+main 2020-10-26 13:54:31,793 INFO  properties file loaded
+main 2020-10-26 13:54:31,793 DEBUG app.folder.path : D:/githubRepo/hibernate/hibernate/inputFolder/
+main 2020-10-26 13:54:31,793 INFO  *******************Main start*******************
+main 2020-10-26 13:54:31,815 INFO  *******************Main end*******************
+main 2020-10-26 13:54:41,903 INFO  *********************Log4j2 Instantiated**************************
+main 2020-10-26 13:54:41,908 DEBUG db.driver : com.mysql.jdbc.Driver
+main 2020-10-26 13:54:41,909 DEBUG db.url : jdbc:mysql://localhost:3306/db1
+main 2020-10-26 13:54:41,909 DEBUG db.username : root
+main 2020-10-26 13:54:41,909 DEBUG db.password : root
+main 2020-10-26 13:54:41,909 DEBUG db.filename : applicationLog4j2.xml
+main 2020-10-26 13:54:41,909 INFO  properties file loaded
+main 2020-10-26 13:54:41,909 DEBUG app.folder.path : D:/githubRepo/hibernate/hibernate/inputFolder/
+main 2020-10-26 13:54:41,909 INFO  *******************Main start*******************
+main 2020-10-26 13:54:41,933 INFO  *******************Main end*******************
+main 2020-10-26 13:54:53,292 INFO  *********************Log4j2 Instantiated**************************
+main 2020-10-26 13:54:53,298 DEBUG db.driver : com.mysql.jdbc.Driver
+main 2020-10-26 13:54:53,298 DEBUG db.url : jdbc:mysql://localhost:3306/db1
+main 2020-10-26 13:54:53,298 DEBUG db.username : root
+main 2020-10-26 13:54:53,298 DEBUG db.password : root
+main 2020-10-26 13:54:53,298 DEBUG db.filename : applicationLog4j2.xml
+main 2020-10-26 13:54:53,298 INFO  properties file loaded
+main 2020-10-26 13:54:53,298 DEBUG app.folder.path : D:/githubRepo/hibernate/hibernate/inputFolder/
+main 2020-10-26 13:54:53,299 INFO  *******************Main start*******************
+main 2020-10-26 13:55:17,334 INFO  *******************Main end*******************
+main 2020-10-26 13:55:40,259 INFO  *********************Log4j2 Instantiated**************************
+main 2020-10-26 13:55:40,262 DEBUG db.driver : com.mysql.jdbc.Driver
+main 2020-10-26 13:55:40,262 DEBUG db.url : jdbc:mysql://localhost:3306/db1
+main 2020-10-26 13:55:40,262 DEBUG db.username : root
+main 2020-10-26 13:55:40,263 DEBUG db.password : root
+main 2020-10-26 13:55:40,263 DEBUG db.filename : applicationLog4j2.xml
+main 2020-10-26 13:55:40,263 INFO  properties file loaded
+main 2020-10-26 13:55:40,263 DEBUG app.folder.path : D:/githubRepo/hibernate/hibernate/inputFolder/
+main 2020-10-26 13:55:40,263 INFO  *******************Main start*******************
+main 2020-10-26 13:55:40,280 INFO  *******************Main end*******************
+main 2020-10-26 13:55:50,577 INFO  *********************Log4j2 Instantiated**************************
+main 2020-10-26 13:55:50,580 DEBUG db.driver : com.mysql.jdbc.Driver
+main 2020-10-26 13:55:50,580 DEBUG db.url : jdbc:mysql://localhost:3306/db1
+main 2020-10-26 13:55:50,580 DEBUG db.username : root
+main 2020-10-26 13:55:50,580 DEBUG db.password : root
+main 2020-10-26 13:55:50,580 DEBUG db.filename : applicationLog4j2.xml
+main 2020-10-26 13:55:50,581 INFO  properties file loaded
+main 2020-10-26 13:55:50,581 DEBUG app.folder.path : D:/githubRepo/hibernate/hibernate/inputFolder/
+main 2020-10-26 13:55:50,581 INFO  *******************Main start*******************
+main 2020-10-26 13:55:50,582 INFO  *******************Main end*******************

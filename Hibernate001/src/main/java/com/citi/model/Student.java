@@ -7,7 +7,7 @@ public class Student {
 	private String selection;
 
 	public Student() {
-		System.out.println("default constructor called");
+		//System.out.println("default constructor called");
 	}
 	
 	
@@ -17,9 +17,16 @@ public class Student {
 		this.firstName = firstName;
 		this.lastName = lastName;
 		this.selection = selection;
-		System.out.println("paramaterized constructor called");
+		//System.out.println("paramaterized constructor called");
 	}
 
+
+
+	@Override
+	public String toString() {
+		return "Student [id=" + id + ", firstName=" + firstName + ", lastName=" + lastName + ", selection=" + selection
+				+ "]";
+	}
 
 
 	public int getId() {
